@@ -1,2 +1,2 @@
 # Declaracoes-css
- Testando tags do CSS
+ Testando declarações do CSS3
